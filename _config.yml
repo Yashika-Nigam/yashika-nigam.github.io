@@ -13,15 +13,15 @@ remote_theme             : "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-name                     : Pritesh Shrivastava
-title                    : Pritesh Shrivastava's Blog
-url                      : http://pritesh-shrivastava.github.io
+name                     : Yashika Nigam
+title                    : Yashika Nigam's Blog
+url                      : http://yashika-nigam.github.io
 
 locale                   : "en-US"
 title_separator          : "-"
 subtitle                 : "My learnings in programming and data science"
-name                     : &name "Pritesh Shrivastava" # &name is a YAML anchor which can be *referenced later
-description              : &description "My tech blog on programming and data science (mostly)"
+name                     : &name "Yashika Nigam" # &name is a YAML anchor which can be *referenced later
+description              : &description "My HomePage"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -69,9 +69,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "pritesh_shri"
+  username               : &twitter "NigamYashika"
 facebook:
-  username               : &facebook "thepriteshshrivastava"
+  username               : &facebook "yashika.nigam"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -81,22 +81,22 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/pritesh_shri"
-    - "https://www.facebook.com/thepriteshshrivastava"
+    - "https://twitter.com/NigamYashika"
+    - "https://www.facebook.com/yashika.nigam"
 
 # Analytics
-analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "UA-176828686-1" # Replace this with your ID, or delete
-    anonymize_ip         : true
+#analytics:
+#  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+#  google:
+#    tracking_id          : "" # Replace this with your ID, or delete
+#    anonymize_ip         : true
 
 
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/profile_pic.jpg"
-  bio              : "Data Scientist"
+  bio              : "Digital Marketer"
   location         : "Mumbai, India"
   links:
     #- label: "Made Mistakes"
@@ -104,33 +104,30 @@ author:
     #  url: "https://mademistakes.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pritesh-shrivastava/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pritesh-shrivastava"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/priteshshrivastava"
+      url: "https://www.linkedin.com/in/yashika-nigam-481403165//"
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     # url: "https://github.com/pritesh-shrivastava"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pritesh_shri"
+      url: "https://twitter.com/NigamYashika"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/pritesh_shri"
 
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/pritesh_shri"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pritesh-shrivastava"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/pritesh_shri"
+#footer:
+ # links:
+  #  - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/pritesh_shri"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+     # url: "https://github.com/pritesh-shrivastava"
+  #  - label: "Instagram"
+  #icon: "fab fa-fw fa-instagram"
+   #   url: "https://instagram.com/pritesh_shri"
 
 
 # Reading Files
