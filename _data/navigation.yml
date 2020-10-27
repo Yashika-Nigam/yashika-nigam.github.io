@@ -2,8 +2,8 @@
 main:
   - title: "Posts"
     url: /year-archive/
-#  - title: "Categories"
-#    url: /categories/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Tags"
     url: /tags/
   - title: "About"
