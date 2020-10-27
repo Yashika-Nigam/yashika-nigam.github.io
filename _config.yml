@@ -19,7 +19,7 @@ url                      : http://yashika-nigam.github.io
 
 locale                   : "en-US"
 title_separator          : "-"
-subtitle                 : "My learnings in programming and data science"
+subtitle                 : "My home page"
 name                     : &name "Yashika Nigam" # &name is a YAML anchor which can be *referenced later
 description              : &description "My HomePage"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
