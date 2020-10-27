@@ -14,7 +14,7 @@ defaults:
 
 ## Marketing projects
 
-- Running a Facebook campaign ([report](https://drive.google.com/file/d/1I-U71lSQYah1_wCW1wOx8oI1rFR9GE7E/view?usp=sharing))
+- Running a Facebook Ad campaign to promote a free e-book with a budget of USD100 for period of 1 week ([report](https://drive.google.com/file/d/1I-U71lSQYah1_wCW1wOx8oI1rFR9GE7E/view?usp=sharing))
 - 
 
 
